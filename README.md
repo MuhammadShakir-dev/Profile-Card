@@ -6,4 +6,4 @@ Profile card used for your quick introduction and some links using HTML, CSS.
 2. CSS
 
 # Result.
-<img src="">
+<img src="https://github.com/MuhammadShakir-dev/Profile-Card/blob/main/card.jpeg">
